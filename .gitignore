@@ -1,3 +1,5 @@
 node_modules/
 public/
 upload/*.jpg
+.env
+build/
